@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "adatkotes_1", "adatkotes_1\adatkotes_1.vbproj", "{CECB02C1-C4BA-4A5F-855A-473E792DE999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECB02C1-C4BA-4A5F-855A-473E792DE999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECB02C1-C4BA-4A5F-855A-473E792DE999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECB02C1-C4BA-4A5F-855A-473E792DE999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECB02C1-C4BA-4A5F-855A-473E792DE999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
